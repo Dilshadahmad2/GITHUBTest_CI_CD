@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     fun addFirstFunction(){
         Log.i("","")
         Log.i("","")
+        Log.i("","")
     }
     fun addSecondFunction(){
         var s =""
